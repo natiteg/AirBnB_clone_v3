@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Added Feature
-Rest APIs__
+Rest APIs  
 **Under construction**
 
 ## Authors
@@ -164,6 +164,5 @@ Rest APIs__
 ## New Author
 Natnael Tegegne - [natitegg@gmail.com]
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
