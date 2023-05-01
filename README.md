@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Added Feature
 Rest APIs 
-** Under construction **
+**Under construction**
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
